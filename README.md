@@ -12,6 +12,9 @@ Academic Integrity and Academic Misconduct. The policy can be found at
 
 Credits for CSC337/CSCM37
 : 25% of module
+Grade 
+: 
+88%
 
 # Motivation
 
